@@ -137,3 +137,7 @@ Special thanks to:
 ## Summary
 
 This module delivered a practical and verified implementation of a **mixed-signal voltmeter system** on the DE10-Lite FPGA platform. The project successfully integrated PWM output logic with analog input acquisition via ADC, providing both simulation-based and physical board-level confirmation of expected functionality.
+
+> **Note:** This repository was originally developed under my other GitHub account, [abhijitrai1619](https://github.com/abhijitrai1619/Smart-Glasses-for-Visually-Impaired).  
+> It has been forked and maintained here under [aerostorm19](https://github.com/aerostorm19), also my account, purely for organizational and safety purposes.
+
